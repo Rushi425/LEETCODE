@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rushi425/LEETCODE/tree/master/0050-powx-n) |
 | [2383-add-two-integers](https://github.com/Rushi425/LEETCODE/tree/master/2383-add-two-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rushi425/LEETCODE/tree/master/0169-majority-element) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rushi425/LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/Rushi425/LEETCODE/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/Rushi425/LEETCODE/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/Rushi425/LEETCODE/tree/master/0627-swap-salary) |
+| [1179-game-play-analysis-i](https://github.com/Rushi425/LEETCODE/tree/master/1179-game-play-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rushi425/LEETCODE/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Array
 |  |

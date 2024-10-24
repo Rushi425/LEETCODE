@@ -5,12 +5,12 @@ public:
         int high = nums.size()-1;
         int mid;
 
-        if(low == high){
-            if(nums[low] == target){
-                return low;
-            }
-            return -1;
-        }
+        // if(low == high){
+        //     if(nums[low] == target){
+        //         return low;
+        //     }
+        //     return -1;
+        // }
         while(low <= high){
             mid = (low + high) / 2;
             if(nums[mid] == target){

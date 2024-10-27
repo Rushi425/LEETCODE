@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Rushi425/LEETCODE/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Rushi425/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -111,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Rushi425/LEETCODE/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Rushi425/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rushi425/LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rushi425/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rushi425/LEETCODE/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rushi425/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rushi425/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rushi425/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rushi425/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rushi425/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rushi425/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rushi425/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## String

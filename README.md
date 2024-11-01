@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Rushi425/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rushi425/LEETCODE/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Rushi425/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/Rushi425/LEETCODE/tree/master/2383-add-two-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rushi425/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rushi425/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |

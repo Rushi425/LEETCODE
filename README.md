@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Rushi425/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rushi425/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rushi425/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rushi425/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rushi425/LEETCODE/tree/master/0367-valid-perfect-square) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rushi425/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Rushi425/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rushi425/LEETCODE/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rushi425/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rushi425/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/Rushi425/LEETCODE/tree/master/0812-rotate-string) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Rushi425/LEETCODE/tree/master/0812-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rushi425/LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

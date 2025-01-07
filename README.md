@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rushi425/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rushi425/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Rushi425/LEETCODE/tree/master/0441-arranging-coins) |
 | [2383-add-two-integers](https://github.com/Rushi425/LEETCODE/tree/master/2383-add-two-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Rushi425/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Rushi425/LEETCODE/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rushi425/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rushi425/LEETCODE/tree/master/0792-binary-search) |

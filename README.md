@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rushi425/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
 | [3221-find-the-peaks](https://github.com/Rushi425/LEETCODE/tree/master/3221-find-the-peaks) |
+| [3324-split-the-array](https://github.com/Rushi425/LEETCODE/tree/master/3324-split-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [3324-split-the-array](https://github.com/Rushi425/LEETCODE/tree/master/3324-split-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rushi425/LEETCODE/tree/master/0169-majority-element) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [3324-split-the-array](https://github.com/Rushi425/LEETCODE/tree/master/3324-split-the-array) |
 ## Recursion
 |  |
 | ------- |

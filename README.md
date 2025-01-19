@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rushi425/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/Rushi425/LEETCODE/tree/master/3324-split-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rushi425/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rushi425/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rushi425/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rushi425/LEETCODE/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rushi425/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rushi425/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Rushi425/LEETCODE/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rushi425/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rushi425/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Rushi425/LEETCODE/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushi425/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rushi425/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rushi425/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rushi425/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Rushi425/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Rushi425/LEETCODE/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rushi425/LEETCODE/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Rushi425/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

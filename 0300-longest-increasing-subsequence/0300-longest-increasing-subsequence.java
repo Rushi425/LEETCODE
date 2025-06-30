@@ -1,7 +1,7 @@
 public class Solution {
     public int lengthOfLIS(int[] nums) {
         List<Integer> lis = new ArrayList<>();
-
+        int l = 0;
         for(int i : nums){
             int idx = Collections.binarySearch(lis, i);
 
@@ -11,11 +11,12 @@ public class Solution {
 
             if(idx == lis.size()){
                 lis.add(i);
+                l++;
             }
             else{
                 lis.set(idx, i);
             }
         }
-        return lis.size();
+        return l;
     }
 }

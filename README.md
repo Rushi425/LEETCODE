@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rushi425/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Rushi425/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rushi425/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rushi425/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushi425/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rushi425/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rushi425/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rushi425/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rushi425/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rushi425/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Rushi425/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Rushi425/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rushi425/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rushi425/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Rushi425/LEETCODE/tree/master/0443-string-compression) |

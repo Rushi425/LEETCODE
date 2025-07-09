@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Rushi425/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rushi425/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rushi425/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Rushi425/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rushi425/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
 | [3221-find-the-peaks](https://github.com/Rushi425/LEETCODE/tree/master/3221-find-the-peaks) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rushi425/LEETCODE/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Rushi425/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 ## Stack
 |  |
 | ------- |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rushi425/LEETCODE/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Rushi425/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

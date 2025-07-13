@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rushi425/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Rushi425/LEETCODE/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Rushi425/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Rushi425/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rushi425/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rushi425/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Rushi425/LEETCODE/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rushi425/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Rushi425/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rushi425/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Rushi425/LEETCODE/tree/master/0143-reorder-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rushi425/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Rushi425/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rushi425/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Rushi425/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Rushi425/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rushi425/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

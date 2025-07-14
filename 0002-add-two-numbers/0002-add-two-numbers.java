@@ -21,25 +21,33 @@ class Solution {
             int val2 = temp2 != null ? temp2.val : 0;
 
             int sum = val1 + val2 + carry;
-            if(sum >= 10){
-                sum = sum - 10; // 17 - 10 => 7 sum -> add in res LL
-                carry = 1;  // if digits are single then always caary is 1
-                //logic for adding
-                dummy.next = new ListNode(sum);
-                dummy = dummy.next;
-                if(temp1 != null) temp1 = temp1.next;
-                if(temp2 != null) temp2 = temp2.next;
-                //reset sum.
-                sum = 0;
-            }
-            else{
-                // loggic for adding
-                dummy.next = new ListNode(sum);
-                dummy = dummy.next;
-                if(temp1 != null) temp1 = temp1.next;
-                if(temp2 != null) temp2 = temp2.next;
-                carry = 0;
-            }
+            carry = sum / 10;      // carry for next iteration
+            sum = sum % 10;        // current digit
+
+            dummy.next = new ListNode(sum);
+            dummy = dummy.next;
+
+            if (temp1 != null) temp1 = temp1.next;
+            if (temp2 != null) temp2 = temp2.next;
+            // if(sum >= 10){
+            //     sum = sum - 10; // 17 - 10 => 7 sum -> add in res LL
+            //     carry = 1;  // if digits are single then always caary is 1
+            //     //logic for adding
+            //     dummy.next = new ListNode(sum);
+            //     dummy = dummy.next;
+            //     if(temp1 != null) temp1 = temp1.next;
+            //     if(temp2 != null) temp2 = temp2.next;
+            //     //reset sum.
+            //     sum = 0;
+            // }
+            // else{
+            //     // loggic for adding
+            //     dummy.next = new ListNode(sum);
+            //     dummy = dummy.next;
+            //     if(temp1 != null) temp1 = temp1.next;
+            //     if(temp2 != null) temp2 = temp2.next;
+            //     carry = 0;
+            // }
         }
         return res.next;
     }

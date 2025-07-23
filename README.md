@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rushi425/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Rushi425/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Rushi425/LEETCODE/tree/master/0441-arranging-coins) |
+| [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Rushi425/LEETCODE/tree/master/2383-add-two-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -236,11 +237,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rushi425/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rushi425/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rushi425/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rushi425/LEETCODE/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |

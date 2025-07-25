@@ -1,32 +1,24 @@
 class Solution {
-    static boolean searchRow(int[][] matrix, int target, int row) {
-        int low = 0, high = matrix[0].length - 1;
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (matrix[row][mid] == target) {
-                return true;
-            } else if (matrix[row][mid] < target) {
-                low = mid + 1;  
-            } else {
-                high = mid - 1; 
-            }
-        }
-        return false; 
-    }
-
     public boolean searchMatrix(int[][] matrix, int target) {
-        int m = matrix.length, n = matrix[0].length;  
-        int sr = 0, er = m - 1;  
-
-        while (sr <= er) {
-            int mid = sr + (er - sr) / 2;
-
-            if (target >= matrix[mid][0] && target <= matrix[mid][n - 1]) {
-                return searchRow(matrix, target, mid);  
-            } else if (target < matrix[mid][0]) {
-                er = mid - 1;  
-            } else {
-                sr = mid + 1; 
+        int row = matrix.length - 1;
+        int coln = matrix[0].length - 1;
+        int l = 0, h = row;
+        while(l <= h){
+            int mid = l + (h - l)/ 2;
+            if(matrix[mid][0] <= target && target <= matrix[mid][coln]){
+                int low = 0, high = coln;
+                while(low <= high){
+                    int m = low + (high - low) / 2;
+                    if(matrix[mid][m] == target) return true;
+                    else if (matrix[mid][m]  < target) low = m + 1;
+                    else high = m - 1;
+                }
+                return false;
             }
+            else if(matrix[mid][0] > target) h = mid - 1;
+            else l = mid + 1;
         }
-        return false;  }}
+        return false;
+    }
+    
+}

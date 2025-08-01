@@ -1,25 +1,44 @@
+// class Solution {
+//     public int[] findThePrefixCommonArray(int[] A, int[] B) {
+//         int n = A.length;
+//         Set<Integer> seen1 = new HashSet<>();
+//         Set<Integer> seen2 = new HashSet<>();
+//         Set<Integer> counted = new HashSet<>();
+//         int []arr = new int[n];
+//         int repeated = 0;
+//         for(int i = 0; i < n; i++){
+//             seen1.add(A[i]);
+//             seen2.add(B[i]);
+
+//             if(seen2.contains(A[i]) && !counted.contains(A[i])){
+//                 repeated += 1;
+//                 counted.add(A[i]);
+//             }
+//             if(seen1.contains(B[i]) && !counted.contains(B[i])){
+//                 repeated += 1;
+//                 counted.add(B[i]);
+//             }
+//             arr[i] = repeated;
+//         }
+//         return arr;
+//     }
+// }
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
-        int n = A.length;
-        Set<Integer> seen1 = new HashSet<>();
-        Set<Integer> seen2 = new HashSet<>();
-        Set<Integer> counted = new HashSet<>();
-        int []arr = new int[n];
-        int repeated = 0;
-        for(int i = 0; i < n; i++){
-            seen1.add(A[i]);
-            seen2.add(B[i]);
-
-            if(seen2.contains(A[i]) && !counted.contains(A[i])){
-                repeated += 1;
-                counted.add(A[i]);
+        int n=A.length;
+        Set<Integer> a=new HashSet<>();
+        Set<Integer> b=new HashSet<>();
+        int[] res=new int[n];
+        
+        for(int i=0;i<n;i++){
+            a.add(A[i]);
+            b.add(B[i]);
+            int cnt=0;
+            for(int num:a){
+                if(b.contains(num)) cnt++;
             }
-            if(seen1.contains(B[i]) && !counted.contains(B[i])){
-                repeated += 1;
-                counted.add(B[i]);
-            }
-            arr[i] = repeated;
+            res[i]=cnt;
         }
-        return arr;
+        return res;
     }
 }

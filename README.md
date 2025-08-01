@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rushi425/LEETCODE/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Rushi425/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rushi425/LEETCODE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Rushi425/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rushi425/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rushi425/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Rushi425/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Rushi425/LEETCODE/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Rushi425/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Rushi425/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rushi425/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rushi425/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rushi425/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Rushi425/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Rushi425/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi425/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0898-transpose-matrix) |

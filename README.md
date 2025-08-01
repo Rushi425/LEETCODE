@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushi425/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rushi425/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3221-find-the-peaks](https://github.com/Rushi425/LEETCODE/tree/master/3221-find-the-peaks) |
 | [3324-split-the-array](https://github.com/Rushi425/LEETCODE/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rushi425/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rushi425/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3324-split-the-array](https://github.com/Rushi425/LEETCODE/tree/master/3324-split-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rushi425/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Rushi425/LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Rushi425/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |

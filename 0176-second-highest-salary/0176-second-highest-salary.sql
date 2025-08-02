@@ -1,6 +1,15 @@
 # Write your MySQL query statement below
--- Code 1:
-select coalesce(
-    (select max(salary) from employee 
-        where salary < (select max(salary) from employee)), null) as SecondHighestSalary;
+-- SELECT MAX(salary) AS SecondHighestSalary
+-- FROM Employee
+-- WHERE salary < (SELECT MAX(salary) FROM Employee);
 
+
+select 
+    IFNULL(
+        (select max(salary) 
+        from Employee
+        where salary < (select max(salary) from Employee)
+        ),
+        NULL
+    )
+    as SecondHighestSalary

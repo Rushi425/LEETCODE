@@ -256,12 +256,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rushi425/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rushi425/LEETCODE/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rushi425/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Rushi425/LEETCODE/tree/master/0055-jump-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rushi425/LEETCODE/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Prefix Sum
 |  |
 | ------- |

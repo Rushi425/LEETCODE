@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushi425/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rushi425/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rushi425/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3221-find-the-peaks](https://github.com/Rushi425/LEETCODE/tree/master/3221-find-the-peaks) |
 | [3324-split-the-array](https://github.com/Rushi425/LEETCODE/tree/master/3324-split-the-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rushi425/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rushi425/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3324-split-the-array](https://github.com/Rushi425/LEETCODE/tree/master/3324-split-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rushi425/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rushi425/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Rushi425/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Rushi425/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rushi425/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rushi425/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |

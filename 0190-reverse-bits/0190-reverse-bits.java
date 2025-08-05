@@ -1,12 +1,16 @@
-public class Solution {
-    // you need treat n as an unsigned value
+class Solution {
     public int reverseBits(int n) {
-        int reverse = 0;
+        int rev = 0;
         for(int i = 0; i < 32; i++){
-            reverse = reverse << 1;
-            reverse |= (n & 1);
-            n =  n >>>1;
+            // make space
+            rev = rev << 1;
+            //extract last digit
+            int t = n & 1;
+            // add in rev
+            rev = rev | t;
+            // right shift n
+            n = n >>> 1;
         }
-        return reverse;
+        return rev;
     }
 }

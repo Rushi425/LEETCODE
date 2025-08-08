@@ -4,8 +4,8 @@ class Solution {
         int row = 0, coln = n - 1;
         while(row < m && coln >= 0){
             if(matrix[row][coln] == target) return true;
-            else if(matrix[row][coln] < target) row++;
-            else coln--;
+            else if(matrix[row][coln] > target) coln--;
+            else row++;
         }
         return false;
     }

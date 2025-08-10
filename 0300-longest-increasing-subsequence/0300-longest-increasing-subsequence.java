@@ -1,22 +1,34 @@
-public class Solution {
+class Solution {
     public int lengthOfLIS(int[] nums) {
-        List<Integer> lis = new ArrayList<>();
-        int l = 0;
-        for(int i : nums){
-            int idx = Collections.binarySearch(lis, i);
-
-            if(idx < 0){
-                idx = -(idx + 1);
+        int n = nums.length;
+        int[] dp = new int[n];
+        Arrays.fill(dp, 1);
+        int maxLength = 1;
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j < i; j++){
+                if(nums[j] < nums[i]){
+                    dp[i] = Math.max(dp[i], dp[j] + 1); 
+                }
             }
-
-            if(idx == lis.size()){
-                lis.add(i);
-                l++;
-            }
-            else{
-                lis.set(idx, i);
-            }
+            maxLength = Math.max(maxLength, dp[i]);
         }
-        return l;
+        return maxLength;
     }
 }
+
+    // public int lengthOfLIS(int[] nums) {
+    //     return helper(nums, Integer.MIN_VALUE, 0);
+    // }
+    // static int helper(int[] nums, int prev, int index){
+    //     // base condition
+    //     if(index == nums.length) return 0;
+
+    //     // 1.skip element
+    //     int skip = helper(nums, prev, index + 1);
+        
+    //     // 2.take 
+    //     int take = 0;
+    //     if(prev < nums[index]){
+    //         take = 1 + helper(nums, nums[index], index + 1);
+    //     }
+    //     return Math.max(skip, take);

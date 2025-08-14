@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rushi425/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rushi425/LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rushi425/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/Rushi425/LEETCODE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Rushi425/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rushi425/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rushi425/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Rushi425/LEETCODE/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Rushi425/LEETCODE/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rushi425/LEETCODE/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Prefix Sum

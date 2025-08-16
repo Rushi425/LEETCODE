@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Rushi425/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rushi425/LEETCODE/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Rushi425/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushi425/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Rushi425/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rushi425/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Rushi425/LEETCODE/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/Rushi425/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Rushi425/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rushi425/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rushi425/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi425/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Rushi425/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rushi425/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rushi425/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Rushi425/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rushi425/LEETCODE/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Rushi425/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Rushi425/LEETCODE/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |

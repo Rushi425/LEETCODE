@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rushi425/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi425/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Rushi425/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Rushi425/LEETCODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Rushi425/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rushi425/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Rushi425/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rushi425/LEETCODE/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Rushi425/LEETCODE/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Rushi425/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Rushi425/LEETCODE/tree/master/0890-lemonade-change) |

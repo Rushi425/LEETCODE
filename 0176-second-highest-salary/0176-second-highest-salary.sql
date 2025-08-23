@@ -1,15 +1,23 @@
 # Write your MySQL query statement below
--- SELECT MAX(salary) AS SecondHighestSalary
--- FROM Employee
--- WHERE salary < (SELECT MAX(salary) FROM Employee);
+-- SELECT DISTINCT SALARY AS SecondHighestSalary FROM EMPLOYEE
+-- ORDER BY SALARY DESC
+-- LIMIT 1 OFFSET 1;
+
+-- SELECT MAX(SALARY) AS SecondHighestSalary 
+-- FROM EMPLOYEE
+-- WHERE SALARY < (SELECT MAX(SALARY) FROM EMPLOYEE);
+
+SELECT IFNULL(
+    (
+        SELECT DISTINCT MAX(SALARY) FROM EMPLOYEE WHERE 
+        SALARY < (SELECT MAX(SALARY) FROM EMPLOYEE)
+    ),  NULL
+) AS SecondHighestSalary;
 
 
-select 
-    IFNULL(
-        (select max(salary) 
-        from Employee
-        where salary < (select max(salary) from Employee)
-        ),
-        NULL
-    )
-    as SecondHighestSalary
+-- SELECT IFNULL(
+--     (SELECT DISTINCT SALARY
+--     FROM EMPLOYEE
+--     ORDER BY SALARY DESC
+--     LIMIT 1 OFFSET 1), NULL
+-- )AS SecondHighestSalary;

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushi425/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0661-image-smoother](https://github.com/Rushi425/LEETCODE/tree/master/0661-image-smoother) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rushi425/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rushi425/LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rushi425/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rushi425/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi425/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0661-image-smoother](https://github.com/Rushi425/LEETCODE/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0898-transpose-matrix) |
 ## Memoization
 |  |

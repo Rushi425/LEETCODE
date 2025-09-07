@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Rushi425/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rushi425/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rushi425/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1646-kth-missing-positive-number](https://github.com/Rushi425/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rushi425/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rushi425/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Rushi425/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Rushi425/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rushi425/LEETCODE/tree/master/0441-arranging-coins) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rushi425/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Rushi425/LEETCODE/tree/master/2383-add-two-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rushi425/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |

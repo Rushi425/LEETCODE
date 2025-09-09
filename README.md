@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi425/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0661-image-smoother](https://github.com/Rushi425/LEETCODE/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/Rushi425/LEETCODE/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rushi425/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rushi425/LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rushi425/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rushi425/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Rushi425/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Rushi425/LEETCODE/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/Rushi425/LEETCODE/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushi425/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rushi425/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rushi425/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Rushi425/LEETCODE/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/Rushi425/LEETCODE/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |

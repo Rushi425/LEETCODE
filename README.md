@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rushi425/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rushi425/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2887-sort-vowels-in-a-string](https://github.com/Rushi425/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rushi425/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rushi425/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2887-sort-vowels-in-a-string](https://github.com/Rushi425/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rushi425/LEETCODE/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Greedy
 |  |

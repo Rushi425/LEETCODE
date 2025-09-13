@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rushi425/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rushi425/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1646-kth-missing-positive-number](https://github.com/Rushi425/LEETCODE/tree/master/1646-kth-missing-positive-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rushi425/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rushi425/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rushi425/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rushi425/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rushi425/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushi425/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rushi425/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rushi425/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rushi425/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rushi425/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rushi425/LEETCODE/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Rushi425/LEETCODE/tree/master/0890-lemonade-change) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rushi425/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2032-largest-odd-number-in-string](https://github.com/Rushi425/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rushi425/LEETCODE/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Prefix Sum

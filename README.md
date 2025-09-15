@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rushi425/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rushi425/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Rushi425/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rushi425/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rushi425/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Rushi425/LEETCODE/tree/master/2486-most-frequent-even-element) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rushi425/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Rushi425/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Rushi425/LEETCODE/tree/master/0812-rotate-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Rushi425/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rushi425/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rushi425/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1954-replace-all-digits-with-characters](https://github.com/Rushi425/LEETCODE/tree/master/1954-replace-all-digits-with-characters) |
